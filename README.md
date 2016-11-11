@@ -1,3 +1,4 @@
 # sterndata.github.io
 
-Yet Anothter Landing Page
+Yet Another Sterndata Landing Page
+
